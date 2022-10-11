@@ -1,0 +1,12 @@
+C:\Users\jesus\workspace_Net\ExamenTech\ExamenTech.Application\bin\Debug\net6.0\ExamenTech.Application.deps.json
+C:\Users\jesus\workspace_Net\ExamenTech\ExamenTech.Application\bin\Debug\net6.0\ExamenTech.Application.dll
+C:\Users\jesus\workspace_Net\ExamenTech\ExamenTech.Application\bin\Debug\net6.0\ExamenTech.Application.pdb
+C:\Users\jesus\workspace_Net\ExamenTech\ExamenTech.Application\obj\Debug\net6.0\ExamenTech.Application.csproj.AssemblyReference.cache
+C:\Users\jesus\workspace_Net\ExamenTech\ExamenTech.Application\obj\Debug\net6.0\ExamenTech.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jesus\workspace_Net\ExamenTech\ExamenTech.Application\obj\Debug\net6.0\ExamenTech.Application.AssemblyInfoInputs.cache
+C:\Users\jesus\workspace_Net\ExamenTech\ExamenTech.Application\obj\Debug\net6.0\ExamenTech.Application.AssemblyInfo.cs
+C:\Users\jesus\workspace_Net\ExamenTech\ExamenTech.Application\obj\Debug\net6.0\ExamenTech.Application.csproj.CoreCompileInputs.cache
+C:\Users\jesus\workspace_Net\ExamenTech\ExamenTech.Application\obj\Debug\net6.0\ExamenTech.Application.dll
+C:\Users\jesus\workspace_Net\ExamenTech\ExamenTech.Application\obj\Debug\net6.0\refint\ExamenTech.Application.dll
+C:\Users\jesus\workspace_Net\ExamenTech\ExamenTech.Application\obj\Debug\net6.0\ExamenTech.Application.pdb
+C:\Users\jesus\workspace_Net\ExamenTech\ExamenTech.Application\obj\Debug\net6.0\ref\ExamenTech.Application.dll

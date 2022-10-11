@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RTzVYZPiFDgvMGZPNzmZ4DmZNYt9689JYBP9x2dOfqFzE8I1W0aazvwwDme2DYUi0z/RwtfzF2AqICj7tuevPw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jesus\\workspace_Net\\ExamenTech\\ExamenTech.Application\\ExamenTech.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jesus\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

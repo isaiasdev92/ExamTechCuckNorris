@@ -1,0 +1,15 @@
+C:\Users\jesus\workspace_Net\ExamenTech\ExameTech.Infrastructure.Services\bin\Debug\net6.0\ExamenTech.Infrastructure.Services.deps.json
+C:\Users\jesus\workspace_Net\ExamenTech\ExameTech.Infrastructure.Services\bin\Debug\net6.0\ExamenTech.Infrastructure.Services.dll
+C:\Users\jesus\workspace_Net\ExamenTech\ExameTech.Infrastructure.Services\bin\Debug\net6.0\ExamenTech.Infrastructure.Services.pdb
+C:\Users\jesus\workspace_Net\ExamenTech\ExameTech.Infrastructure.Services\obj\Debug\net6.0\ExamenTech.Infrastructure.Services.csproj.AssemblyReference.cache
+C:\Users\jesus\workspace_Net\ExamenTech\ExameTech.Infrastructure.Services\obj\Debug\net6.0\ExamenTech.Infrastructure.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jesus\workspace_Net\ExamenTech\ExameTech.Infrastructure.Services\obj\Debug\net6.0\ExamenTech.Infrastructure.Services.AssemblyInfoInputs.cache
+C:\Users\jesus\workspace_Net\ExamenTech\ExameTech.Infrastructure.Services\obj\Debug\net6.0\ExamenTech.Infrastructure.Services.AssemblyInfo.cs
+C:\Users\jesus\workspace_Net\ExamenTech\ExameTech.Infrastructure.Services\obj\Debug\net6.0\ExamenTech.Infrastructure.Services.csproj.CoreCompileInputs.cache
+C:\Users\jesus\workspace_Net\ExamenTech\ExameTech.Infrastructure.Services\obj\Debug\net6.0\ExamenTech.Infrastructure.Services.dll
+C:\Users\jesus\workspace_Net\ExamenTech\ExameTech.Infrastructure.Services\obj\Debug\net6.0\refint\ExamenTech.Infrastructure.Services.dll
+C:\Users\jesus\workspace_Net\ExamenTech\ExameTech.Infrastructure.Services\obj\Debug\net6.0\ExamenTech.Infrastructure.Services.pdb
+C:\Users\jesus\workspace_Net\ExamenTech\ExameTech.Infrastructure.Services\obj\Debug\net6.0\ref\ExamenTech.Infrastructure.Services.dll
+C:\Users\jesus\workspace_Net\ExamenTech\ExameTech.Infrastructure.Services\bin\Debug\net6.0\ExamenTech.Application.dll
+C:\Users\jesus\workspace_Net\ExamenTech\ExameTech.Infrastructure.Services\bin\Debug\net6.0\ExamenTech.Application.pdb
+C:\Users\jesus\workspace_Net\ExamenTech\ExameTech.Infrastructure.Services\obj\Debug\net6.0\ExamenTech.Infrastructure.Services.csproj.CopyComplete

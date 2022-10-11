@@ -1,0 +1,12 @@
+C:\Users\jesus\workspace_Net\ExamenTech\ExameTech.Infrastructure.Services\bin\Debug\net6.0\ExameTech.Infrastructure.Services.deps.json
+C:\Users\jesus\workspace_Net\ExamenTech\ExameTech.Infrastructure.Services\bin\Debug\net6.0\ExameTech.Infrastructure.Services.dll
+C:\Users\jesus\workspace_Net\ExamenTech\ExameTech.Infrastructure.Services\bin\Debug\net6.0\ExameTech.Infrastructure.Services.pdb
+C:\Users\jesus\workspace_Net\ExamenTech\ExameTech.Infrastructure.Services\obj\Debug\net6.0\ExameTech.Infrastructure.Services.csproj.AssemblyReference.cache
+C:\Users\jesus\workspace_Net\ExamenTech\ExameTech.Infrastructure.Services\obj\Debug\net6.0\ExameTech.Infrastructure.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jesus\workspace_Net\ExamenTech\ExameTech.Infrastructure.Services\obj\Debug\net6.0\ExameTech.Infrastructure.Services.AssemblyInfoInputs.cache
+C:\Users\jesus\workspace_Net\ExamenTech\ExameTech.Infrastructure.Services\obj\Debug\net6.0\ExameTech.Infrastructure.Services.AssemblyInfo.cs
+C:\Users\jesus\workspace_Net\ExamenTech\ExameTech.Infrastructure.Services\obj\Debug\net6.0\ExameTech.Infrastructure.Services.csproj.CoreCompileInputs.cache
+C:\Users\jesus\workspace_Net\ExamenTech\ExameTech.Infrastructure.Services\obj\Debug\net6.0\ExameTech.Infrastructure.Services.dll
+C:\Users\jesus\workspace_Net\ExamenTech\ExameTech.Infrastructure.Services\obj\Debug\net6.0\refint\ExameTech.Infrastructure.Services.dll
+C:\Users\jesus\workspace_Net\ExamenTech\ExameTech.Infrastructure.Services\obj\Debug\net6.0\ExameTech.Infrastructure.Services.pdb
+C:\Users\jesus\workspace_Net\ExamenTech\ExameTech.Infrastructure.Services\obj\Debug\net6.0\ref\ExameTech.Infrastructure.Services.dll
